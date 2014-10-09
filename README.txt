@@ -30,6 +30,8 @@ This Bash script was used to extract the Chroma feature vectors from Mazurka aud
 We would also like to acknowledge Michael A. Casey again for his helpful conversations regarding feature extraction from audio files through bash. 
 
 
+
+
 References:
 
 [M2007]  M. M\”{u}ller, “Information Retrieval for Music and Motion”, Springer Verlag, 2007.
